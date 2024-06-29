@@ -1,6 +1,5 @@
 
 ```markdown
-<p dir="rtl">
 
 # سایت امووزشی 
 این مخزن شامل فایل‌ها و پوشه‌های داخل پوشه `wp-content` سایت اموزشی است. برای مشاهده سایت، می‌توانید به [این لینک](https://emadsadrajamali.000webhostapp.com/) مراجعه کنید.
@@ -18,7 +17,7 @@
 
 ابتدا مخزن را به دستگاه خود کلون کنید:
 ```bash
-git clone https://github.com/نام‌کاربری‌گیتهاب/نام‌مخزن.git
+git clone https://github.com/emadjamali/wordpress_lms.git
 ```
 
 ### ۲. نصب Local by Flywheel
@@ -79,5 +78,4 @@ http://نام-سایت-شما.local/wp-admin
 ## نویسنده
 - [عماد جمالی - صدرا جمالی](https://github.com/emadjamali)
 
-</p>
 ```
