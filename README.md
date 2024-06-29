@@ -1,6 +1,6 @@
 
 ```markdown
-<div dir="rtl">
+<p dir="rtl">
 
 # سایت امووزشی 
 این مخزن شامل فایل‌ها و پوشه‌های داخل پوشه `wp-content` سایت اموزشی است. برای مشاهده سایت، می‌توانید به [این لینک](https://emadsadrajamali.000webhostapp.com/) مراجعه کنید.
@@ -79,5 +79,5 @@ http://نام-سایت-شما.local/wp-admin
 ## نویسنده
 - [عماد جمالی - صدرا جمالی](https://github.com/emadjamali)
 
-</div>
+</p>
 ```
